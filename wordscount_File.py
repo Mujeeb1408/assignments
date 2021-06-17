@@ -1,4 +1,4 @@
-# program to calculate the number of occurance of words in file
+# program to calculate the number of occurrence of words in file
 filename = str(input('Enter the file name:'))
 file = open(filename)
 read = file.read()
